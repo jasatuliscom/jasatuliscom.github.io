@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
+WA Kami 085162962694
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Jasa Penulis Artikel SEO Murah
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jasatulis94@gmail.com](mailto:jasatulis94@gmail.com)
